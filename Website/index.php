@@ -60,6 +60,7 @@
             <div class="row" style="margin:0px;">
                 <div class="col-md-6" style="border-right: solid #FAFAFA 3px; padding: 16px 0px 16px 0px;">
                     <p style="font-size:50px;font-weight:bold;">LOGIN</p>
+                    <p>Attempting to log in as a student before the contest opens will result in an immediate ban.<br>You will have an hour to write the test from the moment you log in.</p>
                 </div>
                 <!-- Teacher Login -->
                 <div class="col-md-6 text-center" style="border-left: solid #FAFAFA 3px; padding: 16px 0px 16px 0px;">
