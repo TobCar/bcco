@@ -162,37 +162,37 @@
 
           <tr>
               <td><?php echo $_SESSION["fr_questions"][3]?></td>
-              <td class="answer"><?php if( isset($_SESSION["committed_answers"][18]) ){ echo $_SESSION["committed_answers"][15]; } ?></td>
+              <td class="answer"><?php if( isset($_SESSION["committed_answers"][18]) ){ echo $_SESSION["committed_answers"][18]; } ?></td>
               <td><button name="jump_to" value="18" class="blue-btn">Edit</button></td>
           </tr>
 
           <tr>
               <td><?php echo $_SESSION["fr_questions"][4]?></td>
-              <td class="answer"><?php if( isset($_SESSION["committed_answers"][19]) ){ echo $_SESSION["committed_answers"][16]; } ?></td>
+              <td class="answer"><?php if( isset($_SESSION["committed_answers"][19]) ){ echo $_SESSION["committed_answers"][19]; } ?></td>
               <td><button name="jump_to" value="19" class="blue-btn">Edit</button></td>
           </tr>
 
           <tr>
               <td><?php echo $_SESSION["fr_questions"][5]?></td>
-              <td class="answer"><?php if( isset($_SESSION["committed_answers"][20]) ){ echo $_SESSION["committed_answers"][17]; } ?></td>
+              <td class="answer"><?php if( isset($_SESSION["committed_answers"][20]) ){ echo $_SESSION["committed_answers"][20]; } ?></td>
               <td><button name="jump_to" value="20" class="blue-btn">Edit</button></td>
           </tr>
 
           <tr>
               <td><?php echo $_SESSION["fr_questions"][6]?></td>
-              <td class="answer"><?php if( isset($_SESSION["committed_answers"][21]) ){ echo $_SESSION["committed_answers"][15]; } ?></td>
+              <td class="answer"><?php if( isset($_SESSION["committed_answers"][21]) ){ echo $_SESSION["committed_answers"][21]; } ?></td>
               <td><button name="jump_to" value="21" class="blue-btn">Edit</button></td>
           </tr>
 
           <tr>
               <td><?php echo $_SESSION["fr_questions"][7]?></td>
-              <td class="answer"><?php if( isset($_SESSION["committed_answers"][22]) ){ echo $_SESSION["committed_answers"][16]; } ?></td>
+              <td class="answer"><?php if( isset($_SESSION["committed_answers"][22]) ){ echo $_SESSION["committed_answers"][22]; } ?></td>
               <td><button name="jump_to" value="22" class="blue-btn">Edit</button></td>
           </tr>
 
           <tr>
               <td><?php echo $_SESSION["fr_questions"][8]?></td>
-              <td class="answer"><?php if( isset($_SESSION["committed_answers"][23]) ){ echo $_SESSION["committed_answers"][17]; } ?></td>
+              <td class="answer"><?php if( isset($_SESSION["committed_answers"][23]) ){ echo $_SESSION["committed_answers"][23]; } ?></td>
               <td><button name="jump_to" value="23" class="blue-btn">Edit</button></td>
           </tr>
 
