@@ -92,7 +92,7 @@
              <hr>
              <h2 class="text-center" style="font-weight:bold;">SAMPLE CONTEST</h2>
              <hr>
-             <p style="text-align:center;">Practice using our contest interface.</p>
+             <p style="text-align:center;">Practice using our contest interface. <a href="http://www.bcco-inovaca.org/key.pdf">(Answer key)</a></p>
              <form action="https://www.bcco-inovaca.org/student-login" method="post" style="text-align:center;margin-top: 30px;">
                  <input type="hidden" name="student_id" value="DEMO">
                  <button type="submit" class="blue-btn btn-login">Start Sample Contest</button>
