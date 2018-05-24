@@ -189,6 +189,11 @@
                     <a href="https://www.redacademy.com"><img src="/img/sponsors/redacademy.png" alt="" style="height:100px;"></a>
                 </div>
             </div>
+            <div class="row">
+              <div class="col-sm-6">
+                <a href="https://courses.dauacademy.com"><img src="/img/sponsors/dauacademy.png" alt="Dau Academy" style="height:auto; width:100%;"></a>
+              </div>
+            </div>
         </div>
         <!-- end Sponsors -->
 
